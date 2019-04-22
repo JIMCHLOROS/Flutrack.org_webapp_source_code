@@ -1,0 +1,16 @@
+{
+  "name": "Flutrack",
+  "icons":[
+    {
+      "src": "./img/logo.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#1B1B1B",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#1B1B1B",
+  "permissions": ["http://localhost:63342"]
+}

@@ -1,0 +1,22 @@
+ /* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/* Always set the map height explicitly to define the size of the div
+     * element that contains the map. */
+#map {
+  height: 70%;
+  margin: 40px;
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+  background-color: #1B1B1B ;
+  height: 100%;
+  padding: 0;
+}
+/* The logo style */
+#logo {
+  margin: 40px;
+  /*text-align:center;*/
+}
+
